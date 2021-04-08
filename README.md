@@ -1,3 +1,5 @@
-# C_programming_exercises
-Repository for C programming exercises, made for automatic testing platform of Politechnika Lodzka.
-There are 3 sections (as a branches) that were created during 3 first semesters on Computer Science degree course.
+# C_programming_exercises  
+Section 3 is comprised of 2 bigger C exersises.  
+First one is memory allocator for heap management - it's comprised of functions such as malloc, calloc realloc, free.  
+Second one is FAT12 file system parser.  
+Both programs were written for automated testing platform that has it's own requirements, so it's impossible to start them as is.  
